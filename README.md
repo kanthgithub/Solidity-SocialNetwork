@@ -1,2 +1,1 @@
-# Solidity-SocialNetwork
-Solidity-SocialNetwork
+# SimpleSocialNetwork
